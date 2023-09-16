@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet numquam quibusdam voluptatum. Repudiandae reiciendis nihil architecto optio mollitia tempora, dolorum doloribus dolore animi, sint quis aut excepturi necessitatibus veritatis deleniti?
         </p>
       </div>
       <p className="read-the-docs">
